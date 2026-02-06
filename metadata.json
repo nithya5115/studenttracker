@@ -1,0 +1,8 @@
+{
+  "name": "StudentTracker",
+  "description": "A comprehensive developer showcase featuring a Student Grade Tracker, Stock Trading Simulator, AI Chatbot (Gemini-powered), and Hotel Reservation System.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
